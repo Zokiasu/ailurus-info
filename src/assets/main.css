@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&family=Ubuntu:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.josefin {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
